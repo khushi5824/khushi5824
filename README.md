@@ -8,7 +8,7 @@ Web Development: HTML, CSS, JavaScript
 JSS Connect: A collaborative platform for students and faculty to share academic resources and connect.
 Vidyamitra App: An educational app providing students with easy access to study materials and resources.
 FraudShield: A semi-supervised learning framework to detect financial fraud, combining supervised learning and anomaly detection to showcase effective fraud prevention. Built with Streamlit and utilizing the BAF Dataset.
-📬 Let’s Connect
+📬Let’s Connect
 Email:khushisonu145@gmail.com
 LinkedIn:https://www.linkedin.com/in/khushi-h-b4975625a
 ## 🛠 Skills & Technologies
